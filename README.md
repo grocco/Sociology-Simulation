@@ -7,7 +7,7 @@
 
 ## General Introduction
 
-The refusal of vaccination has emerged as a trend in recent years due to the fear for it to be cause of auto immune diseases. Public health officers are concerned with this attitude increasing the risk of the return of diseases which were considered almost estinguished. An example is the recent outbreak of measles in Switzerland. Currently, campaigns are promoting vaccination to contrast this new trend. I model the risk of a large spread of a disease given the percentage of non vaccinated people and visualize it by means of a simualtion. The former should define a safe threshold on the percentage of vaccinated people for the disease not to take over. Furthermore, we simulate to which extend a campaign should intervene to restore such threshold. 
+The refusal of vaccination has emerged as a trend in recent years due to the fear for it to be cause of auto immune diseases. Public health officers are concerned with this attitude increasing the risk of the return of diseases which were considered almost estinguished. An example is the recent outbreak of measles in Switzerland. Currently, campaigns are promoting vaccination to contrast this new trend. I model the risk of a large spread of a disease given the percentage of non vaccinated people and visualize it by means of a simualtion. The former should define a safe threshold on the percentage of vaccinated people for the disease not to take over. Furthermore, we simulate to which extent a campaign should intervene to restore such threshold. 
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
@@ -17,10 +17,10 @@ The refusal of vaccination has emerged as a trend in recent years due to the fea
 
 Independent variables:
 - percentage of non vaccinated people (look at current distribution)
-- spread factor of the disease (known/dependendt given the disease)
+- spread factor of the disease (dependent given the disease)
 - persuasion factor of campaign ( hyperparamether )
-- persuasion factor among individuals ( to be defined )
-- incidence of severe complications ( known/dependent on disease)
+- persuasion factor among individuals ( follows a model from the literature )
+- incidence of severe complications ( dependent on disease)
 
 Dependent variable:
 - damage in terms of number of severe complications per unit of time
@@ -36,7 +36,7 @@ Such a model is therefore applicable to welfare states where the cost of a vacci
 ## Fundamental Questions
 
 What can be considered a safe threshold on the ratio of non vaccinated people, given the disease and the society under study?
-How much effort shall be invested in vaccination campaigns given the refusal trend?
+How much effort shall be invested in vaccination campaigns given the extent of the refusal trend?
 
 
 (At the end of the project you want to find the answer to these questions)
@@ -47,7 +47,7 @@ How much effort shall be invested in vaccination campaigns given the refusal tre
 
 
 I expect a minor percentage of people refusing vaccination to be of no harm for the entire society.
-Also, I expect a sufficiently high percentage can lead to disastrous scenarios 
+On the other hand, I suspect that a sufficiently high percentage can lead to disastrous scenarios (the incidence of severe complications to be out of control) 
 
 (What are the answers to the above questions that you expect to find before starting your research?)
 
