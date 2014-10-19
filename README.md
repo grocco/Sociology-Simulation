@@ -15,16 +15,39 @@ The refusal of vaccination has emerged as a trend in recent years due to the fea
 
 ## The Model
 
+Independent variables:
+- percentage of non vaccinated people (look at current distribution)
+- spread factor of the disease (known/dependendt given the disease)
+- persuasion factor of campaign ( hyperparamether )
+- persuasion factor among individuals ( to be defined )
+- incidence of severe complications ( known/dependent on disease)
+
+Dependent variable:
+- damage in terms of number of severe complications per unit of time
+
+I assume the society under study is subject to risk of infection only because of the lack of vaccination.
+I also assume the vaccination is free of charge.
+Such a model is therefore applicable to welfare states where the cost of a vaccination can be assumed inexistent.
+
+
 (Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
 
 
 ## Fundamental Questions
+
+What can be considered a safe threshold on the ratio of non vaccinated people, given the disease and the society under study?
+How much effort shall be invested in vaccination campaigns given the refusal trend?
+
 
 (At the end of the project you want to find the answer to these questions)
 (Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
 
 
 ## Expected Results
+
+
+I expect a minor percentage of people refusing vaccination to be of no harm for the entire society.
+Also, I expect a sufficiently high percentage can lead to disastrous scenarios 
 
 (What are the answers to the above questions that you expect to find before starting your research?)
 
