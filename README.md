@@ -1,11 +1,13 @@
 # MATLAB Fall 2014 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Rocco Ghielmini 
+> * Group participants names: Rocco Ghielmini
+> * Project Title: Diffusion of Vaccination Refusal and it's Consecuancens
 
 ## General Introduction
+
+The refusal of vaccination has emerged as a trend in recent years due to the fear for it to be cause of auto immune diseases. Public health officers are concerned with this attitude increasing the risk of the return of diseases which were considered almost estinguished.
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
