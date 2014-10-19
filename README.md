@@ -7,7 +7,7 @@
 
 ## General Introduction
 
-The refusal of vaccination has emerged as a trend in recent years due to the fear for it to be cause of auto immune diseases. Public health officers are concerned with this attitude increasing the risk of the return of diseases which were considered almost estinguished.
+The refusal of vaccination has emerged as a trend in recent years due to the fear for it to be cause of auto immune diseases. Public health officers are concerned with this attitude increasing the risk of the return of diseases which were considered almost estinguished. An example is the recent outbreak of measles in Switzerland. Currently, campaigns are promoting vaccination to contrast this new trend. I model the risk of a large spread of a disease given the percentage of non vaccinated people and visualize it by means of a simualtion. The former should define a safe threshold on the percentage of vaccinated people for the disease not to take over. Furthermore, we simulate to which extend a campaign should intervene to restore such threshold. 
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
